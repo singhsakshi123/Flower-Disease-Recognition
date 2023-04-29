@@ -5,6 +5,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.logo img {
+    max-width: 130px;
+    filter: brightness(150%) contrast(200%);
+}
 li.nav__items{
     font-size: 18px;
     padding-bottom: 15px;

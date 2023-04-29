@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import logo from "./img/ailogo.png";
+import logo from "./img/logo1.png";
 
 function Home() {
   // fixed Header
